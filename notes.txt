@@ -1,0 +1,8 @@
+git init
+git clone
+git log
+git push
+git add <path>
+
+
+git add. from toplevel repo flder
