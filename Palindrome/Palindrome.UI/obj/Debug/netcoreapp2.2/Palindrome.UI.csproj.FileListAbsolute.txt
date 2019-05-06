@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\Palindrome\Palindrome.UI\bin\Debug\netcoreapp2.2\Palindrome.UI.deps.json
+C:\Users\DELL\source\repos\Palindrome\Palindrome.UI\bin\Debug\netcoreapp2.2\Palindrome.UI.runtimeconfig.json
+C:\Users\DELL\source\repos\Palindrome\Palindrome.UI\bin\Debug\netcoreapp2.2\Palindrome.UI.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Palindrome\Palindrome.UI\bin\Debug\netcoreapp2.2\Palindrome.UI.dll
+C:\Users\DELL\source\repos\Palindrome\Palindrome.UI\bin\Debug\netcoreapp2.2\Palindrome.UI.pdb
+C:\Users\DELL\source\repos\Palindrome\Palindrome.UI\obj\Debug\netcoreapp2.2\Palindrome.UI.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Palindrome\Palindrome.UI\obj\Debug\netcoreapp2.2\Palindrome.UI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Palindrome\Palindrome.UI\obj\Debug\netcoreapp2.2\Palindrome.UI.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Palindrome\Palindrome.UI\obj\Debug\netcoreapp2.2\Palindrome.UI.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Palindrome\Palindrome.UI\obj\Debug\netcoreapp2.2\Palindrome.UI.dll
+C:\Users\DELL\source\repos\Palindrome\Palindrome.UI\obj\Debug\netcoreapp2.2\Palindrome.UI.pdb
