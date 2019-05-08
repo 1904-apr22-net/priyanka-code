@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\Human\Human.Library\bin\Debug\netstandard2.0\Human.Library.deps.json
+C:\Users\DELL\source\repos\Human\Human.Library\bin\Debug\netstandard2.0\Human.Library.dll
+C:\Users\DELL\source\repos\Human\Human.Library\bin\Debug\netstandard2.0\Human.Library.pdb
+C:\Users\DELL\source\repos\Human\Human.Library\obj\Debug\netstandard2.0\Human.Library.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Human\Human.Library\obj\Debug\netstandard2.0\Human.Library.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Human\Human.Library\obj\Debug\netstandard2.0\Human.Library.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Human\Human.Library\obj\Debug\netstandard2.0\Human.Library.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Human\Human.Library\obj\Debug\netstandard2.0\Human.Library.dll
+C:\Users\DELL\source\repos\Human\Human.Library\obj\Debug\netstandard2.0\Human.Library.pdb

@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Anima\Anima.UI\bin\Debug\netcoreapp2.2\Anima.UI.deps.json
+C:\Users\DELL\source\repos\Anima\Anima.UI\bin\Debug\netcoreapp2.2\Anima.UI.runtimeconfig.json
+C:\Users\DELL\source\repos\Anima\Anima.UI\bin\Debug\netcoreapp2.2\Anima.UI.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Anima\Anima.UI\bin\Debug\netcoreapp2.2\Anima.UI.dll
+C:\Users\DELL\source\repos\Anima\Anima.UI\bin\Debug\netcoreapp2.2\Anima.UI.pdb
+C:\Users\DELL\source\repos\Anima\Anima.UI\bin\Debug\netcoreapp2.2\Anima.Library.dll
+C:\Users\DELL\source\repos\Anima\Anima.UI\bin\Debug\netcoreapp2.2\Anima.Library.pdb
+C:\Users\DELL\source\repos\Anima\Anima.UI\obj\Debug\netcoreapp2.2\Anima.UI.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Anima\Anima.UI\obj\Debug\netcoreapp2.2\Anima.UI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Anima\Anima.UI\obj\Debug\netcoreapp2.2\Anima.UI.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Anima\Anima.UI\obj\Debug\netcoreapp2.2\Anima.UI.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Anima\Anima.UI\obj\Debug\netcoreapp2.2\Anima.UI.csproj.CopyComplete
+C:\Users\DELL\source\repos\Anima\Anima.UI\obj\Debug\netcoreapp2.2\Anima.UI.dll
+C:\Users\DELL\source\repos\Anima\Anima.UI\obj\Debug\netcoreapp2.2\Anima.UI.pdb

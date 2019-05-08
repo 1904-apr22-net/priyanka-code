@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Human\Human.UI\bin\Debug\netcoreapp2.2\Human.UI.deps.json
+C:\Users\DELL\source\repos\Human\Human.UI\bin\Debug\netcoreapp2.2\Human.UI.runtimeconfig.json
+C:\Users\DELL\source\repos\Human\Human.UI\bin\Debug\netcoreapp2.2\Human.UI.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Human\Human.UI\bin\Debug\netcoreapp2.2\Human.UI.dll
+C:\Users\DELL\source\repos\Human\Human.UI\bin\Debug\netcoreapp2.2\Human.UI.pdb
+C:\Users\DELL\source\repos\Human\Human.UI\bin\Debug\netcoreapp2.2\Human.Library.dll
+C:\Users\DELL\source\repos\Human\Human.UI\bin\Debug\netcoreapp2.2\Human.Library.pdb
+C:\Users\DELL\source\repos\Human\Human.UI\obj\Debug\netcoreapp2.2\Human.UI.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Human\Human.UI\obj\Debug\netcoreapp2.2\Human.UI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Human\Human.UI\obj\Debug\netcoreapp2.2\Human.UI.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Human\Human.UI\obj\Debug\netcoreapp2.2\Human.UI.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Human\Human.UI\obj\Debug\netcoreapp2.2\Human.UI.csproj.CopyComplete
+C:\Users\DELL\source\repos\Human\Human.UI\obj\Debug\netcoreapp2.2\Human.UI.dll
+C:\Users\DELL\source\repos\Human\Human.UI\obj\Debug\netcoreapp2.2\Human.UI.pdb

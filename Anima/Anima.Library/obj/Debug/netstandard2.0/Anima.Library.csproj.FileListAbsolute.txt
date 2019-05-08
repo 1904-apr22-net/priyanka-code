@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\Anima\Anima.Library\bin\Debug\netstandard2.0\Anima.Library.deps.json
+C:\Users\DELL\source\repos\Anima\Anima.Library\bin\Debug\netstandard2.0\Anima.Library.dll
+C:\Users\DELL\source\repos\Anima\Anima.Library\bin\Debug\netstandard2.0\Anima.Library.pdb
+C:\Users\DELL\source\repos\Anima\Anima.Library\obj\Debug\netstandard2.0\Anima.Library.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Anima\Anima.Library\obj\Debug\netstandard2.0\Anima.Library.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Anima\Anima.Library\obj\Debug\netstandard2.0\Anima.Library.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Anima\Anima.Library\obj\Debug\netstandard2.0\Anima.Library.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Anima\Anima.Library\obj\Debug\netstandard2.0\Anima.Library.dll
+C:\Users\DELL\source\repos\Anima\Anima.Library\obj\Debug\netstandard2.0\Anima.Library.pdb

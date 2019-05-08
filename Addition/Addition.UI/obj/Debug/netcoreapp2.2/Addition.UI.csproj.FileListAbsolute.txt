@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Addition\Addition.UI\bin\Debug\netcoreapp2.2\Addition.UI.deps.json
+C:\Users\DELL\source\repos\Addition\Addition.UI\bin\Debug\netcoreapp2.2\Addition.UI.runtimeconfig.json
+C:\Users\DELL\source\repos\Addition\Addition.UI\bin\Debug\netcoreapp2.2\Addition.UI.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Addition\Addition.UI\bin\Debug\netcoreapp2.2\Addition.UI.dll
+C:\Users\DELL\source\repos\Addition\Addition.UI\bin\Debug\netcoreapp2.2\Addition.UI.pdb
+C:\Users\DELL\source\repos\Addition\Addition.UI\bin\Debug\netcoreapp2.2\Addition.Library.dll
+C:\Users\DELL\source\repos\Addition\Addition.UI\bin\Debug\netcoreapp2.2\Addition.Library.pdb
+C:\Users\DELL\source\repos\Addition\Addition.UI\obj\Debug\netcoreapp2.2\Addition.UI.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Addition\Addition.UI\obj\Debug\netcoreapp2.2\Addition.UI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Addition\Addition.UI\obj\Debug\netcoreapp2.2\Addition.UI.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Addition\Addition.UI\obj\Debug\netcoreapp2.2\Addition.UI.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Addition\Addition.UI\obj\Debug\netcoreapp2.2\Addition.UI.csproj.CopyComplete
+C:\Users\DELL\source\repos\Addition\Addition.UI\obj\Debug\netcoreapp2.2\Addition.UI.dll
+C:\Users\DELL\source\repos\Addition\Addition.UI\obj\Debug\netcoreapp2.2\Addition.UI.pdb

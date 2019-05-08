@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Pizza.UI/1.0.0": {
+        "dependencies": {
+          "Pizza.Library": "1.0.0"
+        },
+        "runtime": {
+          "Pizza.UI.dll": {}
+        }
+      },
+      "Pizza.Library/1.0.0": {
+        "runtime": {
+          "Pizza.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pizza.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pizza.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

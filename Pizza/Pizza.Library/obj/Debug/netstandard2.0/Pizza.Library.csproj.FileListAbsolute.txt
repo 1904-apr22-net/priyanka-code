@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\Pizza\Pizza.Library\bin\Debug\netstandard2.0\Pizza.Library.deps.json
+C:\Users\DELL\source\repos\Pizza\Pizza.Library\bin\Debug\netstandard2.0\Pizza.Library.dll
+C:\Users\DELL\source\repos\Pizza\Pizza.Library\bin\Debug\netstandard2.0\Pizza.Library.pdb
+C:\Users\DELL\source\repos\Pizza\Pizza.Library\obj\Debug\netstandard2.0\Pizza.Library.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Pizza\Pizza.Library\obj\Debug\netstandard2.0\Pizza.Library.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Pizza\Pizza.Library\obj\Debug\netstandard2.0\Pizza.Library.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Pizza\Pizza.Library\obj\Debug\netstandard2.0\Pizza.Library.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Pizza\Pizza.Library\obj\Debug\netstandard2.0\Pizza.Library.dll
+C:\Users\DELL\source\repos\Pizza\Pizza.Library\obj\Debug\netstandard2.0\Pizza.Library.pdb

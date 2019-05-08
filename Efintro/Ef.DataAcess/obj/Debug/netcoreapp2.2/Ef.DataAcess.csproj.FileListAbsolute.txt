@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\Efintro\Ef.DataAcess\bin\Debug\netcoreapp2.2\Ef.DataAcess.deps.json
+C:\Users\DELL\source\repos\Efintro\Ef.DataAcess\bin\Debug\netcoreapp2.2\Ef.DataAcess.dll
+C:\Users\DELL\source\repos\Efintro\Ef.DataAcess\obj\Debug\netcoreapp2.2\Ef.DataAcess.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Efintro\Ef.DataAcess\obj\Debug\netcoreapp2.2\Ef.DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Efintro\Ef.DataAcess\obj\Debug\netcoreapp2.2\Ef.DataAcess.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Efintro\Ef.DataAcess\obj\Debug\netcoreapp2.2\Ef.DataAcess.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Efintro\Ef.DataAcess\bin\Debug\netcoreapp2.2\Ef.DataAcess.runtimeconfig.json
+C:\Users\DELL\source\repos\Efintro\Ef.DataAcess\bin\Debug\netcoreapp2.2\Ef.DataAcess.runtimeconfig.dev.json

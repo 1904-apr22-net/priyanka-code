@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Efintro.App", "Efintro.App\Efintro.App.csproj", "{22B49294-40A1-4C56-A3AD-2040725CE0B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ef.DataAcess", "Ef.DataAcess\Ef.DataAcess.csproj", "{ADDF4423-EAC5-45C1-A5E4-A4DB42839295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22B49294-40A1-4C56-A3AD-2040725CE0B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B49294-40A1-4C56-A3AD-2040725CE0B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B49294-40A1-4C56-A3AD-2040725CE0B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B49294-40A1-4C56-A3AD-2040725CE0B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADDF4423-EAC5-45C1-A5E4-A4DB42839295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADDF4423-EAC5-45C1-A5E4-A4DB42839295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADDF4423-EAC5-45C1-A5E4-A4DB42839295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADDF4423-EAC5-45C1-A5E4-A4DB42839295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF5A4D9E-2890-431D-AD6A-E71FA1C0553E}
+	EndGlobalSection
+EndGlobal

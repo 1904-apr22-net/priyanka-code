@@ -1,0 +1,4 @@
+C:\Users\DELL\source\repos\CollectionTesting\CollectionTesting.Library\obj\Debug\netcoreapp2.2\CollectionTesting.Library.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\CollectionTesting\CollectionTesting.Library\obj\Debug\netcoreapp2.2\CollectionTesting.Library.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CollectionTesting\CollectionTesting.Library\obj\Debug\netcoreapp2.2\CollectionTesting.Library.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CollectionTesting\CollectionTesting.Library\obj\Debug\netcoreapp2.2\CollectionTesting.Library.AssemblyInfo.cs

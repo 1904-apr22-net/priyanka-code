@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\Animalss\Animalss.Library\bin\Debug\netstandard2.0\Animalss.Library.deps.json
+C:\Users\DELL\source\repos\Animalss\Animalss.Library\bin\Debug\netstandard2.0\Animalss.Library.dll
+C:\Users\DELL\source\repos\Animalss\Animalss.Library\bin\Debug\netstandard2.0\Animalss.Library.pdb
+C:\Users\DELL\source\repos\Animalss\Animalss.Library\obj\Debug\netstandard2.0\Animalss.Library.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Animalss\Animalss.Library\obj\Debug\netstandard2.0\Animalss.Library.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Animalss\Animalss.Library\obj\Debug\netstandard2.0\Animalss.Library.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Animalss\Animalss.Library\obj\Debug\netstandard2.0\Animalss.Library.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Animalss\Animalss.Library\obj\Debug\netstandard2.0\Animalss.Library.dll
+C:\Users\DELL\source\repos\Animalss\Animalss.Library\obj\Debug\netstandard2.0\Animalss.Library.pdb

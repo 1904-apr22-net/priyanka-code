@@ -1,0 +1,4 @@
+C:\Users\DELL\source\repos\Array\Array\obj\Debug\netcoreapp2.2\Array.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Array\Array\obj\Debug\netcoreapp2.2\Array.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Array\Array\obj\Debug\netcoreapp2.2\Array.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Array\Array\obj\Debug\netcoreapp2.2\Array.AssemblyInfo.cs

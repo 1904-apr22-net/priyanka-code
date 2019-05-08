@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Animalss\Animalss.UI\bin\Debug\netcoreapp2.2\Animalss.UI.deps.json
+C:\Users\DELL\source\repos\Animalss\Animalss.UI\bin\Debug\netcoreapp2.2\Animalss.UI.runtimeconfig.json
+C:\Users\DELL\source\repos\Animalss\Animalss.UI\bin\Debug\netcoreapp2.2\Animalss.UI.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Animalss\Animalss.UI\bin\Debug\netcoreapp2.2\Animalss.UI.dll
+C:\Users\DELL\source\repos\Animalss\Animalss.UI\bin\Debug\netcoreapp2.2\Animalss.UI.pdb
+C:\Users\DELL\source\repos\Animalss\Animalss.UI\bin\Debug\netcoreapp2.2\Animalss.Library.dll
+C:\Users\DELL\source\repos\Animalss\Animalss.UI\bin\Debug\netcoreapp2.2\Animalss.Library.pdb
+C:\Users\DELL\source\repos\Animalss\Animalss.UI\obj\Debug\netcoreapp2.2\Animalss.UI.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Animalss\Animalss.UI\obj\Debug\netcoreapp2.2\Animalss.UI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Animalss\Animalss.UI\obj\Debug\netcoreapp2.2\Animalss.UI.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Animalss\Animalss.UI\obj\Debug\netcoreapp2.2\Animalss.UI.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Animalss\Animalss.UI\obj\Debug\netcoreapp2.2\Animalss.UI.csproj.CopyComplete
+C:\Users\DELL\source\repos\Animalss\Animalss.UI\obj\Debug\netcoreapp2.2\Animalss.UI.dll
+C:\Users\DELL\source\repos\Animalss\Animalss.UI\obj\Debug\netcoreapp2.2\Animalss.UI.pdb

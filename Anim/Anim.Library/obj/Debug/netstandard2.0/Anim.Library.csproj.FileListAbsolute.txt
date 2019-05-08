@@ -1,0 +1,4 @@
+C:\Users\DELL\source\repos\Anim\Anim.Library\obj\Debug\netstandard2.0\Anim.Library.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Anim\Anim.Library\obj\Debug\netstandard2.0\Anim.Library.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Anim\Anim.Library\obj\Debug\netstandard2.0\Anim.Library.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Anim\Anim.Library\obj\Debug\netstandard2.0\Anim.Library.AssemblyInfo.cs

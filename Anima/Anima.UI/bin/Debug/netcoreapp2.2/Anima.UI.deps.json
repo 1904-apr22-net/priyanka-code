@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Anima.UI/1.0.0": {
+        "dependencies": {
+          "Anima.Library": "1.0.0"
+        },
+        "runtime": {
+          "Anima.UI.dll": {}
+        }
+      },
+      "Anima.Library/1.0.0": {
+        "runtime": {
+          "Anima.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Anima.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Anima.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

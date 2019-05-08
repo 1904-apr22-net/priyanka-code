@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anim.UI", "Anim.UI\Anim.UI.csproj", "{93CBEB49-9545-4317-A89C-D164222B1651}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anim.Library", "Anim.Library\Anim.Library.csproj", "{AC3CB045-86B3-4A62-9A6B-27F1130714B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93CBEB49-9545-4317-A89C-D164222B1651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CBEB49-9545-4317-A89C-D164222B1651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CBEB49-9545-4317-A89C-D164222B1651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CBEB49-9545-4317-A89C-D164222B1651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC3CB045-86B3-4A62-9A6B-27F1130714B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC3CB045-86B3-4A62-9A6B-27F1130714B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC3CB045-86B3-4A62-9A6B-27F1130714B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC3CB045-86B3-4A62-9A6B-27F1130714B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {233BD260-B991-470E-8B06-568790CD5696}
+	EndGlobalSection
+EndGlobal

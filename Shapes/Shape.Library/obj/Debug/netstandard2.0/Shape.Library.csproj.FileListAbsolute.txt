@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\Shapes\Shape.Library\bin\Debug\netstandard2.0\Shape.Library.deps.json
+C:\Users\DELL\source\repos\Shapes\Shape.Library\bin\Debug\netstandard2.0\Shape.Library.dll
+C:\Users\DELL\source\repos\Shapes\Shape.Library\bin\Debug\netstandard2.0\Shape.Library.pdb
+C:\Users\DELL\source\repos\Shapes\Shape.Library\obj\Debug\netstandard2.0\Shape.Library.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Shapes\Shape.Library\obj\Debug\netstandard2.0\Shape.Library.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Shapes\Shape.Library\obj\Debug\netstandard2.0\Shape.Library.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Shapes\Shape.Library\obj\Debug\netstandard2.0\Shape.Library.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Shapes\Shape.Library\obj\Debug\netstandard2.0\Shape.Library.dll
+C:\Users\DELL\source\repos\Shapes\Shape.Library\obj\Debug\netstandard2.0\Shape.Library.pdb

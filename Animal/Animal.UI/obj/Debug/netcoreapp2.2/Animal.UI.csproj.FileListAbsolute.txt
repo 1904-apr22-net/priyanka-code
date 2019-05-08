@@ -1,0 +1,4 @@
+C:\Users\DELL\source\repos\Animal\Animal.UI\obj\Debug\netcoreapp2.2\Animal.UI.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Animal\Animal.UI\obj\Debug\netcoreapp2.2\Animal.UI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Animal\Animal.UI\obj\Debug\netcoreapp2.2\Animal.UI.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Animal\Animal.UI\obj\Debug\netcoreapp2.2\Animal.UI.AssemblyInfo.cs

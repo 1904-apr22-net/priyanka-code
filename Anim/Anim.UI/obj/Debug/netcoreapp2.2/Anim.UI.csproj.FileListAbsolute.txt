@@ -1,0 +1,4 @@
+C:\Users\DELL\source\repos\Anim\Anim.UI\obj\Debug\netcoreapp2.2\Anim.UI.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Anim\Anim.UI\obj\Debug\netcoreapp2.2\Anim.UI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Anim\Anim.UI\obj\Debug\netcoreapp2.2\Anim.UI.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Anim\Anim.UI\obj\Debug\netcoreapp2.2\Anim.UI.AssemblyInfo.cs

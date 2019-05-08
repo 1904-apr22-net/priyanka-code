@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Pizza\Pizza.UI\bin\Debug\netcoreapp2.2\Pizza.UI.deps.json
+C:\Users\DELL\source\repos\Pizza\Pizza.UI\bin\Debug\netcoreapp2.2\Pizza.UI.runtimeconfig.json
+C:\Users\DELL\source\repos\Pizza\Pizza.UI\bin\Debug\netcoreapp2.2\Pizza.UI.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Pizza\Pizza.UI\bin\Debug\netcoreapp2.2\Pizza.UI.dll
+C:\Users\DELL\source\repos\Pizza\Pizza.UI\bin\Debug\netcoreapp2.2\Pizza.UI.pdb
+C:\Users\DELL\source\repos\Pizza\Pizza.UI\obj\Debug\netcoreapp2.2\Pizza.UI.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Pizza\Pizza.UI\obj\Debug\netcoreapp2.2\Pizza.UI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Pizza\Pizza.UI\obj\Debug\netcoreapp2.2\Pizza.UI.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Pizza\Pizza.UI\obj\Debug\netcoreapp2.2\Pizza.UI.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Pizza\Pizza.UI\obj\Debug\netcoreapp2.2\Pizza.UI.dll
+C:\Users\DELL\source\repos\Pizza\Pizza.UI\obj\Debug\netcoreapp2.2\Pizza.UI.pdb
+C:\Users\DELL\source\repos\Pizza\Pizza.UI\bin\Debug\netcoreapp2.2\Pizza.Library.dll
+C:\Users\DELL\source\repos\Pizza\Pizza.UI\bin\Debug\netcoreapp2.2\Pizza.Library.pdb
+C:\Users\DELL\source\repos\Pizza\Pizza.UI\obj\Debug\netcoreapp2.2\Pizza.UI.csproj.CopyComplete

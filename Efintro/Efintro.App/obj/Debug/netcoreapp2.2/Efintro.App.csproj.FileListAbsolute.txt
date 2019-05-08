@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\Efintro\Efintro.App\bin\Debug\netcoreapp2.2\Efintro.App.deps.json
+C:\Users\DELL\source\repos\Efintro\Efintro.App\bin\Debug\netcoreapp2.2\Efintro.App.runtimeconfig.json
+C:\Users\DELL\source\repos\Efintro\Efintro.App\bin\Debug\netcoreapp2.2\Efintro.App.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Efintro\Efintro.App\bin\Debug\netcoreapp2.2\Efintro.App.dll
+C:\Users\DELL\source\repos\Efintro\Efintro.App\bin\Debug\netcoreapp2.2\Efintro.App.pdb
+C:\Users\DELL\source\repos\Efintro\Efintro.App\obj\Debug\netcoreapp2.2\Efintro.App.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Efintro\Efintro.App\obj\Debug\netcoreapp2.2\Efintro.App.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Efintro\Efintro.App\obj\Debug\netcoreapp2.2\Efintro.App.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Efintro\Efintro.App\obj\Debug\netcoreapp2.2\Efintro.App.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Efintro\Efintro.App\obj\Debug\netcoreapp2.2\Efintro.App.dll
+C:\Users\DELL\source\repos\Efintro\Efintro.App\obj\Debug\netcoreapp2.2\Efintro.App.pdb
+C:\Users\DELL\source\repos\Efintro\Efintro.App\bin\Debug\netcoreapp2.2\Ef.DataAcess.dll
